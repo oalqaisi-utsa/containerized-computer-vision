@@ -1,6 +1,6 @@
 /*
  * Osamah Alqaisi
- * UTSA
+ * Osamah.Alqaisi@my.UTSA.edu
  * 
  * This code use Histogram of Oriented Gradients (HOG)  
  * to detect Body from images
