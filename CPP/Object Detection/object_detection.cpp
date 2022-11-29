@@ -1,6 +1,6 @@
 /*
  * Osamah Alqaisi
- * UTSA
+ * Osamah.Alqaisi@my.UTSA.edu
  * 
  * This code use pre-trained YOLO: Real-Time Object Detection files  
  * to detect many objects from images
