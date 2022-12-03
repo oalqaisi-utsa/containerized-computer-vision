@@ -27,7 +27,7 @@ image = None
 countimage = 1
 print("start")
 for i in range (1,5):
-    for j in range (400, 1400) :
+    for j in range (400, 499) :
 
             start_time = cv.getTickCount()
 
