@@ -1,11 +1,11 @@
 #
-#
-#
-#
-#
-#
-#
-#
+# Osamah Alqaisi
+# Osamah.Alqaisi@my.UTSA.edu
+# 
+# This code use Histogram of Oriented Gradients (HOG)  
+# to detect Body from images
+# Images recived by network on port# 8887
+# 
 #
 
 import time
