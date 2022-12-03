@@ -1,12 +1,12 @@
-/*
- * Osamah Alqaisi
- * Osamah.Alqaisi@my.UTSA.edu
- * 
- * This code use pre-trained YOLO: Real-Time Object Detection files  
- * to detect many objects from images
- * Images recived by network on port# 8880
- * 
-*/
+#
+# Osamah Alqaisi
+# Osamah.Alqaisi@my.UTSA.edu
+# 
+# This code use Histogram of Oriented Gradients (HOG)  
+# to detect Body from images
+# Images recived by network on port# 8887
+# 
+#
 
 import socket, cv2 as cv
 import numpy as np
