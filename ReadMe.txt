@@ -3,9 +3,9 @@ We build an edge system that receives images from IoT sensors. The edge device a
 
 Containers:
 C++ with OpenCV container:
-docker push oalqaisi/cv_cpp
+docker pull oalqaisi/cv_cpp
 Python with OpenCV container:
-docker push oalqaisi/cv_python
+docker pull oalqaisi/cv_python
 
 All containers don't have the codes files. You have to upload the codes files to the containers and run them manually.
 
